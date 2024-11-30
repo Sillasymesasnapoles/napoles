@@ -1,0 +1,154 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Productos",
+      "href": "product"
+    },
+    {
+      "name": "Proceso Para Rentar",
+      "href": "features"
+    },
+
+    {
+      "name": "Precios",
+      "href": "pricing"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Sillas y mesas",
+    "subtitle": "NÁPOLES",
+    "description": "Renta de sillas, mesas y manteles , mesas estilo portafolio para tu mayor comodidad y usabilidad asi como las sillas sin descansabrazo para mayor espacio, Convierte tus eventos en momentos inolvidables.",
+    "img": "/assets/images/mesa-portafolio.png",
+    "primaryAction": {
+      "text": "Cotiza Ya!",
+      "href": "+528333925750"
+    },
+    "secondaryAction": {
+      "text": "Whatsapp",
+      "href": "https://wa.me/+528333925750?text=Me puedes cotizar 20 sillas 2 Mesas sin mantel para la colonia 5 de mayo Tampico Tamps. "
+    }
+  },
+  "product": {
+    "title": "Productos Nuevos , Facil de Usar",
+    "items": [
+      {
+        "title": "Silla marca Canes",
+        "description": "Silla Polycar Cannes con cuerpo elaborado en plástico, apta para espacios exteriores medidas de 90 cm. de alto por 50 cm. de ancho, Silla ideal para eventos masivos, apilable y fácil de almacenar, garantizando una firmeza óptima en cualquier tipo de superficie ",
+        "img": "/assets/napoles/silla.png"
+      },
+      {
+        "title": "Mesa Marca Lifetime !",
+        "description": "Mesa Rectangular Lifetime Blanca Portafolio De 183.8cm Color Blanco, equipada con un asa de transporte para facilitar su movilidad, Se pliega por la mitad, lo que permite un almacenamiento sencillo, Su diseño ligero facilita su manejo!",
+        "img": "/assets/napoles/mesa.png"
+      },
+      {
+        "title": "Mantel Tela estilo princesa",
+        "description": "Mantel color blanco con medidas de : 1.90 mts. x 90 cm. !",
+        "img": "/assets/napoles/mantel.png"
+      }
+    ]
+  },
+  "features": {
+    "title": "Proceso para rentar ",
+    "subtitle": "Proceso de Renta en 4 Pasos Simples!",
+    "description": "Políticas de renta; Anticipos: El 50% al confirmar el pedido y el 50% antes de la entrega, Cambios o cancelaciones: Se permiten hasta 7 días antes del evento, Requisitos: Dirección completa del evento y horario.",
+    "items": [
+      {
+        "name": " Elige tus productos",
+        "description": "Explora nuestro catálogo de sillas, mesas y manteles, Selecciona los productos que mejor se adapten a tu evento.",
+        "icon": "/assets/images/seguro.png"
+      },
+      {
+        "name": "Solicita tu cotización",
+        "description": "Llena el formulario en nuestra página o envíanos un mensaje por WhatsApp, Proporciona la fecha, lugar del evento y los productos que necesitas, Recibirás un presupuesto detallado en menos de 24 horas, Ejemplo: Necesito entrega para el 15 de diciembre en [ciudad]",
+        "icon": "/assets/images/enviar.png"
+      },
+      {
+        "name": "Confirma tu pedido",
+        "description": "Una vez que estés de acuerdo con la cotización, confirma tu pedido, Realiza el anticipo para garantizar la disponibilidad de los productos, Te enviaremos una confirmación con los detalles del servicio.",
+        "icon": "/assets/images/comprobado.png"
+      },
+      {
+        "name": "Recibe tus productos",
+        "description": "Nosotros nos encargamos de la entrega y recolección (opcional), Asegúrate de estar en el lugar del evento para la entrega, Disfruta de un evento espectacular con nuestros productos.",
+        "icon": "/assets/images/nuevo-producto.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Calidad premium a precios increíbles",
+    "items": [
+      {
+        "name": "Paquete básico",
+        "price": "$140",
+        "priceDetails": "Por evento",
+        "features": [
+          "10 Sillas ",
+          "1 mesa",
+          "1 mantel",
+          "Paquetes accesibles para todos los presupuestos"
+        ]
+      },
+      {
+        "name": "Más popular",
+        "price": "$280",
+        "priceDetails": "Por evento",
+
+        "features": [
+          "20 sillas",
+          "2 mesas ",
+          "2 manteles",
+          "Calidad premium a precios increíbles"
+        ]
+      },
+      {
+        "name": "Oferta de Navidad",
+        "price": "$400",
+        "priceDetails": "Por evento",
+        "features": [
+          "30 sillas",
+          "3 mesas",
+          "3 manteles",
+          "¿Listo para comenzar? Solicita tu cotización ,que tu evento sea inolvidable."
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "+52-833-451-32-66",
+        "href": "+528334513266"
+      },
+      {
+        "name": "+52-833-325-00-16",
+        "href": "+528333250016"
+      },
+      {
+        "name": "+52-833-236-53-15",
+        "href": "+528332365315",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "+52-833-418-88-79",
+        "href": "+528334188879",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/profile.php?id=100066741323747",
+      "maps": "https://maps.app.goo.gl/FTCySZqN7u2qgPzu7",
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
