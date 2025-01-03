@@ -17,6 +17,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
           property="og:image"
           content="https://sillas-napoles.vercel.app/assets/head/agenda.png"
         />
+        <meta property="fb:app_id" content="6400455020064994" />
         <meta property="og:url" content="https://sillas-napoles.vercel.app/" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
