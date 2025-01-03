@@ -71,7 +71,10 @@ const About = () => {
         <div className="flex items-center mt-6">
           <p className="mt-6 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
             &copy; {new Date().getFullYear()} designed by{' '}
-            <a href="www.linkedin.com/in/carlos-mar29052021" rel="nofollow">
+            <a
+              href="https://www.linkedin.com/in/carlos-mar29052021"
+              rel="nofollow"
+            >
               Carlos Mar
             </a>
           </p>
