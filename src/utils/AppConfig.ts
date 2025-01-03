@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'React landing page',
-  title: 'React landing page template 2021',
-  description: 'Production ready plug n play landing page!',
+  site_name: 'Sillas y mesas napoles',
+  title: 'Sillas y mesas napoles',
+  description: 'Renta de sillas y mesas napoles!',
   locale: 'en',
 };
