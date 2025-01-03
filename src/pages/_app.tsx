@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react';
 import { AppProps } from 'next/app';
 import Head from 'next/head'; // Importa Head para los metadatos globales
 import '../styles/main.css';
@@ -23,6 +24,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
       <Component {...pageProps} />
+      <Analytics />
     </>
   );
 };
