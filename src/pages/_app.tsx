@@ -15,7 +15,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
         />
         <meta
           property="og:image"
-          content="https://sillas-napoles.vercel.app/assets/napoles/mantel.png"
+          content="https://sillas-napoles.vercel.app/assets/head/agenda.png"
         />
         <meta property="og:url" content="https://sillas-napoles.vercel.app/" />
         <meta property="og:type" content="website" />
