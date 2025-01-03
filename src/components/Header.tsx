@@ -106,7 +106,6 @@ const Menu = () => {
                   </Link>
                 ))}
               </div>
-             
             </div>
           </Popover.Panel>
         </Transition>

@@ -16,7 +16,9 @@ const About = () => {
         <div>
           <img src={logo} alt={companyName} className="w-16 h-16" />
         </div>
-        <span className={`text-base text-primary font-semibold tracking-wide uppercase`}>
+        <span
+          className={`text-base text-primary font-semibold tracking-wide uppercase`}
+        >
           LLÁMANOS
         </span>
         <div className="flex flex-wrap sm:gap-10 gap-8 items-center justify-center mt-4 h-12">
@@ -59,11 +61,10 @@ const About = () => {
               width="24"
               height="24"
               viewBox="0 0 24 24"
-             
             >
-              <path d="M12 2c-3.866 0-7 3.134-7 7 0 5.25 7 13 7 13s7-7.75 7-13c0-3.866-3.134-7-7-7zm0 9.5c-1.378 0-2.5-1.122-2.5-2.5S10.622 6.5 12 6.5 14.5 7.622 14.5 9 13.378 11.5 12 11.5z"/>
-              <path d="M12 4.2c-2.645 0-4.8 2.155-4.8 4.8 0 1.79 1.475 4.167 4.8 7.685 3.325-3.518 4.8-5.895 4.8-7.685 0-2.645-2.155-4.8-4.8-4.8z"/>
-              <circle cx="12" cy="9" r="1.5"/>
+              <path d="M12 2c-3.866 0-7 3.134-7 7 0 5.25 7 13 7 13s7-7.75 7-13c0-3.866-3.134-7-7-7zm0 9.5c-1.378 0-2.5-1.122-2.5-2.5S10.622 6.5 12 6.5 14.5 7.622 14.5 9 13.378 11.5 12 11.5z" />
+              <path d="M12 4.2c-2.645 0-4.8 2.155-4.8 4.8 0 1.79 1.475 4.167 4.8 7.685 3.325-3.518 4.8-5.895 4.8-7.685 0-2.645-2.155-4.8-4.8-4.8z" />
+              <circle cx="12" cy="9" r="1.5" />
             </svg>
           </a>
         </div>
