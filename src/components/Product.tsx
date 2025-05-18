@@ -5,7 +5,7 @@ import Divider from './Divider';
 
 const Product = () => {
   const { product } = config;
-  const [firstItem, secondItem, threeItem] = product.items;
+  const [firstItem, secondItem, threeItem, fourItem] = product.items;
 
   return (
     <section className={`bg-background py-8`} id="product">
@@ -23,6 +23,8 @@ const Product = () => {
           ))}
         </h1>
         <Divider />
+
+        {/* firstItem */}
         <div className={`flex flex-wrap`}>
           <div className={`w-5/6 sm:w-1/2 p-6 mt-20`}>
             <h3
@@ -40,6 +42,7 @@ const Product = () => {
             />
           </div>
         </div>
+        {/* secondItem */}
         <div className={`flex flex-wrap flex-col-reverse sm:flex-row`}>
           <div className={`w-full sm:w-1/2 p-6`}>
             <img
@@ -59,6 +62,7 @@ const Product = () => {
             </div>
           </div>
         </div>
+        {/* threeItem */}
         <div className={`flex flex-wrap`}>
           <div className={`w-5/6 sm:w-1/2 p-6 mt-20`}>
             <h3
@@ -74,6 +78,23 @@ const Product = () => {
               src={threeItem?.img}
               alt={threeItem?.title}
             />
+          </div>
+        </div>
+
+        {/* fourItem */}
+        <div className={`flex flex-wrap flex-col-reverse sm:flex-row`}>
+          <div className={`w-full sm:w-1/2 p-6`}>
+            <img className="h-6/6" src={fourItem?.img} alt={fourItem?.title} />
+          </div>
+          <div className={`w-full sm:w-1/2 p-6 mt-20`}>
+            <div className={`align-middle`}>
+              <h3
+                className={`text-3xl text-gray-800 font-bold leading-none mb-3`}
+              >
+                {fourItem?.title}
+              </h3>
+              <p className={`text-gray-600 mb-8`}>{fourItem?.description}</p>
+            </div>
           </div>
         </div>
       </div>

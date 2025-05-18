@@ -25,7 +25,7 @@
   "mainHero": {
     "title": "Sillas y mesas",
     "subtitle": "NÁPOLES",
-    "description": "Renta de sillas, mesas y manteles , mesas estilo portafolio para tu mayor comodidad y usabilidad asi como las sillas sin descansabrazo para mayor espacio, Convierte tus eventos en momentos inolvidables.",
+    "description": "Renta de sillas, mesas, manteles, Plato banquetero cerámica, cubiertos, Vaso Highball ( Jaibolero ), centros de mesa, Meseros, Organizador de eventos, mesas estilo portafolio para tu mayor comodidad y usabilidad asi como las sillas sin descansabrazo para mayor espacio, Convierte tus eventos en momentos inolvidables.",
     "img": "/assets/images/mesa-portafolio.png",
     "primaryAction": {
       "text": "Cotiza Ya!",
@@ -53,6 +53,11 @@
         "title": "Mantel Tela estilo princesa",
         "description": "Mantel color blanco con medidas de : 1.90 mts. x 90 cm. !",
         "img": "/assets/napoles/mantel.png"
+      },
+      {
+        "title": "Vaso Highball ( Jaibolero )  ",
+        "description": "Vaso transparente Altura: 15.77 cm. Ancho 6.42 cm. !",
+        "img": "/assets/napoles/GCVACA050.webp"
       }
     ]
   },
