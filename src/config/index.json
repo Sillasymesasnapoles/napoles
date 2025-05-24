@@ -26,7 +26,7 @@
     "title": "Sillas y mesas",
     "subtitle": "NÁPOLES",
     "description": "Renta de sillas, mesas, manteles, Plato banquetero cerámica, cubiertos, Vaso Highball ( Jaibolero ), centros de mesa, Meseros, Organizador de eventos, mesas estilo portafolio para tu mayor comodidad y usabilidad asi como las sillas sin descansabrazo para mayor espacio, Convierte tus eventos en momentos inolvidables.",
-    "img": "/assets/images/mesa-portafolio.png",
+    "img": "/assets/images/IMG_9953.JPG",
     "primaryAction": {
       "text": "Cotiza Ya!",
       "href": "+528333925750"
@@ -58,6 +58,17 @@
         "title": "Vaso Highball ( Jaibolero )  ",
         "description": "Vaso transparente Altura: 15.77 cm. Ancho 6.42 cm. !",
         "img": "/assets/napoles/GCVACA050.webp"
+      },
+      {
+        "title": "Loza",
+        "description": "¡Plato Trinche y Cubierto!",
+        "img": "/assets/napoles/plato trinche.png"
+      },
+
+      {
+        "title": "Cubre Mantel",
+        "description": "¡Plato Trinche y Cubierto!",
+        "img": "/assets/napoles/plato trinche.png"
       }
     ]
   },
